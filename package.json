@@ -1,0 +1,11 @@
+{
+  "name": "vue-axios-custom",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/devdavecman/vue-axios-custom.git",
+  "author": "dev.dave.cman@gmail.com",
+  "license": "MIT"
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
